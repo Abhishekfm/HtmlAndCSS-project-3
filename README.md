@@ -8,10 +8,10 @@
 #
 In this project I learned about Pseudo Selector and there sub type also which is pseudo class and pseudo element and pseudo element must at last of selector but it is not in the case of pseudo class.
 
-[Visit this website](https://abhi-project-1.netlify.app/)
+[Visit this website](https://abhi-project-3.netlify.app/)
 
 
 #
 
-To see my work visit my [Portfolio]("my-portfolio-website")
+To see my work visit my [Portfolio](https://portfolio-of-abhishek.netlify.app)
 
