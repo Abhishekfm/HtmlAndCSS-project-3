@@ -6,7 +6,7 @@
 
 ![Project 3 Image](project-15.png)
 #
-In this project I learned about Pseudo Selector and there sub type also which is pseudo class and pseudo element and pseudo element must at last of selector but it is not in the case of pseudo class.
+In this project, I learned about Pseudo Selector and their subtype which is pseudo-class and pseudo-element and pseudo-element must be at the last of selectors but it is not in the case of pseudo-class.
 
 [Visit this website](https://abhi-project-3.netlify.app/)
 
